@@ -1,16 +1,35 @@
 {
-    "restaurants": {
-      "info": [
-        {
-          "name": "hotel 1",
-          "promoted": true,
-          "id": 1
-        },
-        {
-          "name": "hotel 2",
-          "promoted": false,
-          "id": 2
-        }
-      ]
-    }
+  "restaurants": {
+    "info": [
+      {
+        "name": "hotel 1",
+        "promoted": true,
+        "id": 1,
+        "menu": [
+          {
+            "name": "-pizza",
+            "id": 1
+          },
+          {
+            "name": "biriyani",
+            "id": 2
+          }
+        ]
+      },
+      {
+        "name": "hotel 2",
+        "id": 2,
+        "menu": [
+          {
+            "name": "-pizza 2",
+            "id": 1
+          },
+          {
+            "name": "biriyani 2",
+            "id": 2
+          }
+        ]
+      }
+    ]
   }
+}
