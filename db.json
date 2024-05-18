@@ -1,0 +1,16 @@
+{
+    "restaurants": {
+      "info": [
+        {
+          "name": "hotel 1",
+          "promoted": true,
+          "id": 1
+        },
+        {
+          "name": "hotel 2",
+          "promoted": false,
+          "id": 2
+        }
+      ]
+    }
+  }
